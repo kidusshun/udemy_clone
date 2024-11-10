@@ -485,13 +485,8 @@
         class="max-w-[90rem] mx-auto px-2 py-5 flex justify-between items-center"
       >
         <div class="flex justify-start items-center">
-          <NuxtLink to="/" class="text-2xl font-bold">
-            <img
-              src="public/images/udemy.png"
-              alt="Udemy"
-              width="91"
-              height="34"
-            />
+          <NuxtLink to="/" class="text-base font-bold">
+            <img src="/images/udemy.png" alt="Udemy" width="91" height="34" />
           </NuxtLink>
           <p>© 2024 Udemy, Inc.</p>
         </div>
