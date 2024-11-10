@@ -2,7 +2,7 @@
   <div
     :class="{
       'fixed right-60 top-16 w-[340px] ml-[80rem]': !isFooterVisible,
-      'absolute right-60 top-16 w-[340px] ml-[80rem]': isFooterVisible,
+      'absolute right-60 bottom-24 w-[340px] ml-[80rem]': isFooterVisible,
     }"
   >
     <CoursePricing />
