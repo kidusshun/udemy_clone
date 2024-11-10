@@ -1,6 +1,6 @@
 <template>
   <footer class="text-white">
-    <div class="bg-gray-900">
+    <div class="bg-[#1C1D1F]">
       <!-- Top Companies Banner -->
       <div class="mx-auto px-8 mb-12 py-6 border-b">
         <div class="flex items-center justify-between">
